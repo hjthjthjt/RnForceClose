@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">氡·停止运行</string>
+	<string name="customText">输入...</string>
+	<string name="saveButton">保存</string>
+	<string name="emptyText">你输入的内容为空눈_눈</string>
+	<string name="saveText1">保存成功(´▽｀)ノ♪</string>
+	<string name="Dialog1">很抱歉，“</string>
+	<string name="Dialog2">”已停止运行。</string>
+	<string name="ok">确定</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RnForceClose</string>
+	<string name="customText">Input...</string>
+	<string name="saveButton">Save</string>
+	<string name="emptyText">You input nothing!</string>
+	<string name="saveText1">Save successfully!</string>
+	<string name="Dialog1">Unfortunately,&#160;</string>
+	<string name="Dialog2">&#160;has stopped.</string>
+	<string name="ok">OK</string>
+</resources>
